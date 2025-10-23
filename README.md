@@ -90,7 +90,7 @@ For each applicant, the request body looks like:
     "institutionId": "1239438",
     "origin": "INDIRECT",
     "products": ["05201"],
-    "credentials": {"subscriberCode": "999ZS06891", "password": "@U1"},
+    "credentials": {"subscriberCode": "999ZS06891", "password": "[INSERT PW]"},
     "productCode": "07000",
     "industryCode": "I",
     "permissiblePurpose": "CI"
